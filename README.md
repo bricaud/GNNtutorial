@@ -6,3 +6,4 @@ It covers:
 * creating a graph with networkx and a matrix of node features,
 * how the GNN layer create embeddings and aggregate information at each node,
 * Key properties and limitations of GNNs.
+![a small graph with the shape of a lollipop](lollipopgraph.png "Lollipop graph with 4 nodes")
